@@ -1,4 +1,4 @@
-#NBA Draft Picker/Lotto Ball puller
+# NBA Draft Picker/Lotto Ball puller
 
 This was a small pair-programming project written during a short afternoon.
 
