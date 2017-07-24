@@ -1,0 +1,4 @@
+10, Suns
+30, Jets
+10, Nuggets
+20, Magics
